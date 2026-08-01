@@ -1,6 +1,11 @@
 # nervionfont
 Nervión is a [Sibelius](https://www.avid.com/sibelius) compatible version of [Punzón](https://github.com/mikkopatama/punzonfont/), a music font inspired by Spanish music engraving, especially Casa Dotésio — the Bilbao-founded publisher that grew into Spain's dominant music printer in the early 1900s before being renamed Unión Musical Española in 1914. Nervión is the name of the river that flows through Bilbao into the Cantabrian Sea. 
 
+The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
+
+> **Work in progress** Glyphs not yet mapped in Poinçon are replaced with glyphs from [Bravura](https://github.com/steinbergmedia/bravura) by Steinberg Media Technologies GmbH.
+> Glyph coverage will expand in future releases.
+
 # Installation
 
 1. **macOS**: Click each font file, `NervionStd.otf`, `NervionTextStd.otf`, `NervionSpecialStd.otf`, `NervionMetronomeStd.otf` and `NervionOrnamentsStd.otf` to open FontBook. Click "Install" to automatically install the fonts system-wide. Alternatively you can copy the font files manually to `/Library/Fonts/`.
