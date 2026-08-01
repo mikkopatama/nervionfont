@@ -9,7 +9,8 @@ Nervión is a [Sibelius](https://www.avid.com/sibelius) compatible version of [P
 3. Start Sibelius and navigate to: File > Preferences > Music Fonts
 4. Click "Choose..." next to "Music font:" and choose `Nervion Std`. After choosing the font, click "Add Font" and it will be added on the music font list.
 5. Choose `Nervion Std`on the list. Copy all the settings shown on the screenshot below and click "Set Substitutions". Close the preferences window.
+6. 
 <img src=”/MusicFontsPreferences.png” />
 
-6. In the upper right corner "Command Search", type "Edit All Fonts" to access the project font menu. Choose "Nervion Std" as the Main Music Font and "Nervion Text Std" as Music Text Font. Click OK.
+7. In the upper right corner "Command Search", type "Edit All Fonts" to access the project font menu. Choose "Nervion Std" as the Main Music Font and "Nervion Text Std" as Music Text Font. Click OK.
 <img src="/EditAllFonts.png" />
